@@ -1,0 +1,22 @@
+{
+  "name": "anthonyray.github.io",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyray/anthonyray.github.io.git"
+  },
+  "author": "Anthony Reinette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyray/anthonyray.github.io/issues"
+  },
+  "homepage": "https://github.com/anthonyray/anthonyray.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.6.6"
+  }
+}
