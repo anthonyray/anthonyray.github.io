@@ -10,7 +10,7 @@ The CSS stylesheets are generated with the following process :
 
 The following process is done with this command : 
 ```
-./node_modules/tailwindcss/lib/cli.js build styles/styles.css -o styles/output.css
+./node_modules/tailwindcss/lib/cli.js build styles/styles.css -o styles/output.css -c styles/tailwind.js
 ```
 
 
